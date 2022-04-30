@@ -8,5 +8,5 @@ A simple program that turn on the cam, detect hands (foot too maybe) and track t
 3. pip install mediapipe
 4. pip install keyboard 
 <br/>
-```
+---
 **A camera is needed to test the program**
