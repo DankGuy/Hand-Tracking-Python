@@ -1,5 +1,5 @@
 # Hand-Tracking-Python
-A simple program that turn on the cam, detect hands (foot too maybe) and track the movement by drawing sticks on the hands 
+A simple program that turns on the cam, detects hands (foot too maybe) and tracks the movement by drawing sticks on the hands 
 <br/>
 
 **Prerequisites:** <br/>
